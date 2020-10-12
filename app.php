@@ -8,7 +8,7 @@ class FileCreator
         $_txt = "
 /*
 |
-|   FILE CREATOR BY ROMBAX FAMILY BREBES JAWA TENGAH
+|   FILE CREATOR - ROMBAX FAMILY BREBES JAWA TENGAH
 |
 |   Creator  : Izzat alharis
 |   Phone    : (+62) 813-9355-2220
